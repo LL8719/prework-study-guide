@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-## Descriptiona
+## Description
 
 The Prework Study guide was created to show my beginning journey into coding and along the wat share this information with others that find themselves in the same path. This was done by taking the key points I saw relevant on the topics of HTML, CSS, JavaScript, Git and GitHub. 
 
