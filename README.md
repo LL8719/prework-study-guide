@@ -10,7 +10,7 @@ The Prework Study guide was created to show my beginning journey into coding and
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-## Installation
+## <a href="Installation">Installation</a>
 
 <a href="Installation">N/A</a>
 
