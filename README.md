@@ -1,44 +1,38 @@
-# Prework Study Guide Webpage
-
-## Description
-
-The Prework Study guide was created to show my beginning journey into coding and along the wat share this information with others that find themselves in the same path. This was done by taking the key points I saw relevant on the topics of HTML, CSS, JavaScript, Git and GitHub. 
-
-## Installation
-N/A
-
-## Usage
-
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+    		# Prework Study Guide Webpage
 
 
+    		## Description
 
-## Credits
+    		The Prework Study guide was created to show my beginning journey into coding and along the wat share this information with others that find themselves in the same path. This was done by taking the key points I saw relevant on the topics of HTML, CSS, JavaScript, Git and GitHub.
 
-N/A
+    		## Table of Contents (Optional)
+    		- [Installation](#installation)
+    		- [Usage](#usage)
+    		- [Contributing](#contributing)
 
-## License
 
-Licensed under the MIT license.
 
----
+    		## Installation
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+    		<a href="Installation">N/A</a>
 
-## Badges
+    		## Usage
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+    		<a href="Usage">To use this Pre-work Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the pre-work along with a suggestion on which topic to study first.</a>
 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+    		## License
 
-## Features
+    		<a href="License">MIT</a>
 
-If your project has a lot of features, list them here.
+    		## Contributing
 
-## How to Contribute
+    		<a href="Contributing"></a>
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+    		## Tests
 
-## Tests
+    		<a href="Tests">undefined</a>
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+    		## Questions
+
+
+    		<a href="Questions">for any questions please reach out via email arsgatslr_87@yahoo.com</a>
